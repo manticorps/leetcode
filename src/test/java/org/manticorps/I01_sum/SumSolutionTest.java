@@ -1,4 +1,4 @@
-package org.manticorps.sum;
+package org.manticorps.I01_sum;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

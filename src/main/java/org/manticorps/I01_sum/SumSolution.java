@@ -1,9 +1,6 @@
-package org.manticorps.sum;
+package org.manticorps.I01_sum;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
-import java.util.Set;
 
 public class SumSolution {
 

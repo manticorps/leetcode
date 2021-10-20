@@ -1,10 +1,10 @@
-package org.manticorps.addtwonumber;
+package org.manticorps.I02_addtwonumber;
 
 
 public class AddTwoNumberSolution {
 
     public static ListNode convertToList(int input) {
-        ListNode first = null;
+        ListNode first;
         if (input <= 0) {
             return new ListNode(0);
         }
