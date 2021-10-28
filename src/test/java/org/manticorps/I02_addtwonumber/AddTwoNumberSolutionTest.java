@@ -2,6 +2,7 @@ package org.manticorps.I02_addtwonumber;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
+import org.manticorps.misc.ListNode;
 
 public class AddTwoNumberSolutionTest {
 
